@@ -1,7 +1,7 @@
 # GNC-Engineer-Navigation-and-State-Estimation-Starlink
 # SpaceX GNC Engineer, Navigation and State Estimation (Starlink)
 
-![SpaceX Logo]([insert_link_to_spacex_logo_image_here](https://www.1min30.com/wp-content/uploads/2018/04/Embl%C3%A8me-SpaceX.jpg))
+![SpaceX Logo](https://www.1min30.com/wp-content/uploads/2018/04/Embl%C3%A8me-SpaceX.jpg)
 
 ## APPLY NOW
 
